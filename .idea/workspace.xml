@@ -11,12 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c82fba7-86b5-4922-8d86-9f4e115439c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/Application.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/Request.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/Router.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680548394763</updated>
       <workItem from="1680548395844" duration="2969000" />
-      <workItem from="1680553365959" duration="1633000" />
+      <workItem from="1680553365959" duration="1968000" />
     </task>
     <servers />
   </component>
